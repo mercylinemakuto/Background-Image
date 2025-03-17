@@ -1,0 +1,37 @@
+
+.Mountain-view{
+    margin-left: 18cm;
+    margin-top: 5cm;
+    border: 1px solid;
+    width: 12cm;
+    height: 10cm;
+    padding: 1cm;
+    
+}
+body{
+    background-image: url(IMAGES/view.jpg);
+}
+#username{
+    width: 10cm;
+    height: 1cm;
+}
+#email{
+    width: 10cm;
+    height: 1cm;
+}
+#password{
+    width: 10cm;
+    height: 1cm;
+}
+
+#submit{
+    width: 10.2cm;
+    height: 1cm;
+    color: white;
+    background-color: green;
+    border: none;
+}
+.icons{
+    margin-top: 1cm;
+    margin-left: 1cm;
+}
