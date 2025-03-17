@@ -6,10 +6,14 @@
     width: 12cm;
     height: 10cm;
     padding: 1cm;
-    
+    background-color: rgba(255, 255, 255, 0.4);
+     border: none;
+     width: 12cm;
+     height: 12cm;
+    border-radius: 10px;
 }
 body{
-    background-image: url(IMAGES/view.jpg);
+    background-image: url(IMAGES/view.jpg);  
 }
 #username{
     width: 10cm;
